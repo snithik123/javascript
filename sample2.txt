@@ -1,2 +1,3 @@
 this is sample file 2 hi hello
 this is to compare file2
+this is stash lecture change in file 2
